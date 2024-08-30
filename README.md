@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Job**
 
-- 💬 Ask me about **Data Analysis,Key solver**
+- 💬 Ask me about **Software Testing Queries**
 
 - 📫 How to reach me **gaikwadajay547@gmail.com**
 
