@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ajay Gaikwad</h1>
-<h3 align="center">Data Scientist From Pune</h3>
+<h3 align="center">Software Test Engineer</h3>
 
 <p align="left"> <img src="https://dribbble.com/lucas_mason/collections/3272245-work" /> </p>
 
