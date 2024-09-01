@@ -1,3 +1,4 @@
+![Header](./your-header-image-name.png)
 <h1 align="center">Hi 👋, I'm Ajay Gaikwad</h1>
 <h3 align="center">A passionate Software Test Engineer from India</h3>
 <img align="right" alt="Testing" Width="400" src="https://media.tenor.com/27z-u12LcDwAAAAi/testing-automation.gif">
