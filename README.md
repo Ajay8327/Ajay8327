@@ -3,11 +3,9 @@
 <img align="right" alt="Testing" Width="400" src="https://media.tenor.com/27z-u12LcDwAAAAi/testing-automation.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay8327&label=Profile%20views&color=0e75b6&style=flat" alt="ajay8327" /> </p>
 
-- 🔭 I’m currently working on CognoPi Solutions Pvt Ltd **Ecommerce Domain**
+- 🔭 I’m currently working on CognoPi Solutions Pvt Ltd **Ecommerce Domain,InvestMent Banking Domain**
 
 - 🌱 I’m currently learning **Tosca**
-
-- 👯 I’m looking to collaborate on **Investment Banking**
 
 - 💬 Ask me about Software Testing Queries **Selenium With Java, TestNg ,Cucumber(BDD)**
 
